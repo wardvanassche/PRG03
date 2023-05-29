@@ -1,0 +1,46 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.banner {
+    height: 30vh;
+    background-image: url("../img/banner.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+main {
+    background-color: #001021;
+}
+
+.bulmamodal {
+    border-radius: 10px;
+}
+
+.modal-card-head {
+    background-color: #001021;
+}
+
+.modal-card-foot {
+    background-color: #001021;
+}
+
+.modal-card {
+    width: 40vw;
+}
+
+.disabledimg {
+    max-width: 30vw;
+}
+
+.imgdetail {
+    max-width: 30vw;
+}
+
+#favorite {
+    color: white;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
